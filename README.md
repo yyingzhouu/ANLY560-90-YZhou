@@ -1,3 +1,3 @@
 # ANLY560-90-YZhou
 
-this is the ANLY560 repo.
+this is the ANLY560 repository.
